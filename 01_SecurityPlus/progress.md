@@ -6,11 +6,11 @@ Questo file serve a tracciare i miei progressi nello studio per la certificazion
 
 ## 🗓️ Diario di studio
 
-| Data       | Argomento | Tempo dedicato | Note |
-|------------|-----------|----------------|------|
-| 2025-04-14 | Intro + Setup repository | 1h | Creato repo GitHub, iniziata roadmap |
-| 2025-04-15 |  |
-| ...        | ...       | ...            | ...  |
+| Data       | Argomento                  | Tempo | Materiale       | Note                     |
+|------------|----------------------------|--------|------------------|--------------------------|
+| 2025-04-14 | Setup + Intro              | 1h     | Corso + GitHub   | Creata repo + roadmap    |
+| 2025-04-15 | Security Fundamentals      | 1.5h   | Corso video      | Appunti                  |
+
 
 ---
 
@@ -35,9 +35,8 @@ Questo file serve a tracciare i miei progressi nello studio per la certificazion
 - ✅ Tip utili per l'esame (distrattori, risposte più generali, ecc.)
 
 ## 📌 In Progress
-- 02 - Tipi di attacchi
-- 03 - Tecniche di mitigazione
+
 
 ---
 
-_Last updated: 2025-04-14_
+![Last update](https://img.shields.io/badge/Last_Update-2025--04--14-blue)
