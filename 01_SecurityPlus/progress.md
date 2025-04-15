@@ -9,19 +9,8 @@ Questo file serve a tracciare i miei progressi nello studio per la certificazion
 | Data       | Argomento | Tempo dedicato | Note |
 |------------|-----------|----------------|------|
 | 2025-04-14 | Intro + Setup repository | 1h | Creato repo GitHub, iniziata roadmap |
-| 2025-04-15 | Domain 1.1 – Phishing, Social Engineering | 1.5h | Appunti su tecniche e contromisure |
+| 2025-04-15 |  |
 | ...        | ...       | ...            | ...  |
-
----
-
-## ✅ Moduli completati
-
-- [x] Setup iniziale repository
-- [ ] Domain 1 – Attacks, Threats, Vulnerabilities
-- [ ] Domain 2 – Architecture and Design
-- [ ] Domain 3 – Implementation
-- [ ] Domain 4 – Operations and Incident Response
-- [ ] Domain 5 – Governance, Risk, Compliance
 
 ---
 
@@ -31,9 +20,24 @@ Questo file serve a tracciare i miei progressi nello studio per la certificazion
 
 ---
 
-## 🔁 Revisione
+# 📘 Security+ Progress Tracker
 
-| Data       | Modulo rivisto | Metodo | Note |
-|------------|----------------|--------|------|
-| ...        | Domain 1       | Quiz   | ...  |
+## ✅ Completed Sections
 
+### [01 - Security Fundamentals](notes/01_security_fundamentals.md)
+- ✅ Concetti chiave: CIA Triad (Confidenzialità, Integrità, Disponibilità)
+- ✅ Estensione: Non ripudio e Autenticazione
+- ✅ AAA: Autenticazione, Autorizzazione, Contabilità
+- ✅ Sicurezza delle informazioni vs Sicurezza dei sistemi informativi
+- ✅ Conflitto tra Sicurezza e Usabilità
+- ✅ Zero Trust Model: controllo e piano dati
+- ✅ Categorie e Tipi di Controlli di Sicurezza
+- ✅ Tip utili per l'esame (distrattori, risposte più generali, ecc.)
+
+## 📌 In Progress
+- 02 - Tipi di attacchi
+- 03 - Tecniche di mitigazione
+
+---
+
+_Last updated: 2025-04-14_
