@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/status-getting_started-blue)
 ![Background](https://img.shields.io/badge/role-Salesforce_Developer-orange)
 ![Focus](https://img.shields.io/badge/focus-Cloud_Security_&_DevSecOps-purple)
+![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=for-the-badge)
 
 Welcome to my personal roadmap and learning repository.  
 I’m transitioning from a strong background as a **Salesforce Marketing Cloud Developer** to focus on advanced technical skills in **Cloud Security**, **DevSecOps**, and **Cloud Architecture**.
