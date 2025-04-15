@@ -1,0 +1,24 @@
+name: 🕒 Update Last Updated Badge
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🛠️ Update last-updated.json
+        run: ./update-last-updated.sh
+
+      - name: 📤 Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add last-updated.json
+          git diff --cached --quiet || git commit -m "🔄 Update last-updated.json"
+          git push

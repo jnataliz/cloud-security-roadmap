@@ -39,6 +39,6 @@ Questo file serve a tracciare i miei progressi nello studio per la certificazion
 
 ---
 
-_Last updated: 2025-04-15 20:25
-![Last update](https://img.shields.io/badge/Last_Update-2025--04--14-blue)
+
+![Last update](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/<jnataliz>/<cloud-security-roadmap>/main/last-updated.json)
 

@@ -37,5 +37,3 @@
 > Quando si parla di *disponibilità*, pensate a **ridondanza e resilienza**.”
 
 ---
-
-sdsddsd
