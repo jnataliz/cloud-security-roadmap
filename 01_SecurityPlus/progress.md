@@ -40,5 +40,5 @@ Questo file serve a tracciare i miei progressi nello studio per la certificazion
 ---
 
 
-![Last update](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/<jnataliz>/<cloud-security-roadmap>/main/last-updated.json)
+![Last update](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jnataliz/cloud-security-roadmap/main/last-updated.json)
 
